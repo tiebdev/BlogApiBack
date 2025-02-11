@@ -39,7 +39,7 @@ Esta API permite la creación, edición y eliminación de posts, comentarios y e
 ## 🔧 Instalación y Uso  
 ### 1️⃣ Clonar el Repositorio  
 ```bash
-git clone https://github.com/tuusuario/blog-api.git
+git clone https://github.com/tiebdev/BlogApiBack
 cd blog-api
 ```
 ### 2️⃣ Configurar la Base de Datos  
