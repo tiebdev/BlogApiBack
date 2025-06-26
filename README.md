@@ -69,7 +69,7 @@ La API se ejecutará en **https://localhost:7097** y podrás probar los endpoint
 🔗 `https://localhost:7097/swagger/index.html`  
 
 ## 📬 Contacto  
-📩 **Email:** [tieb.dev@gmail.com](mailto:tieb.dev@gmail.com)  
+📩 **Email:** [ridouan@tieb.dev](mailto:ridouan@tieb.dev)  
 🔗 **LinkedIn:** [linkedin.com/in/ridouantieb](https://linkedin.com/in/ridouantieb)  
 
 ---
